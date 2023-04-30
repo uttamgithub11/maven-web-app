@@ -19,6 +19,7 @@ spec:
     containers:
     - name: mavenwebappcontainer
       image: uttamdoc2022/mavenwebapp
+      imagePullPolicy: Always
       ports:
       - containerPort: 8080
 ---
