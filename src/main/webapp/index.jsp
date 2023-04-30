@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1><font color='red'> Welcome to Uttam we page no 1  <font></h1>
-<h2> like and share our page details no 98989899888 </h2>
+<h2> like and share our </h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See  IT Training Schedules</a>
   
