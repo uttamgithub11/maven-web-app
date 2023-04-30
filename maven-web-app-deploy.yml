@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
- name: mavenwebappdeployment1
+ name: mavenwebappdeployment
 spec:
  replicas: 2
  strategy: 
